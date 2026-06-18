@@ -39,19 +39,19 @@ Seaborn-Project/
 ├── notebooks/ # Jupyter notebooks with visualizations
 ├── images/ # Saved plots/screenshots
 └── README.md
-
+---
 🎯 Key Learning Outcomes
 Understanding statistical data visualization
 Creating meaningful plots for data analysis
 Performing Exploratory Data Analysis (EDA)
 Learning how to interpret data patterns visually
-
+---
 🚀 Future Improvements
 Add more real-world datasets
 Advanced EDA techniques
 Interactive visualizations
 Combine with Machine Learning projects
-
+---
 👩‍💻 Author
 Anushka Verma
 MCA Student, Harcourt Butler Technical University (HBTU), Kanpur
