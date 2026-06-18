@@ -29,13 +29,6 @@ The goal of this project is to understand data patterns, relationships, and dist
 - Seaborn  
 - Jupyter Notebook  
 
-🚀 Future Improvements
-Add more real-world datasets
-Advanced EDA techniques
-Interactive visualizations
-Combine with Machine Learning projects
-
-👩‍💻 Author
-Anushka Verma
-MCA Student, Harcourt Butler Technical University (HBTU), Kanpur
-Data Scientist enthusiast
+## 👩‍💻 Author
+**Anushka Verma**
+MCA Student | Aspiring Data Scientist
